@@ -511,6 +511,10 @@ video {
   margin-top: 70px
 }
 
+.mx-auto {
+  margin-inline: auto;
+}
+
 .flex {
   display: flex
 }
@@ -632,6 +636,10 @@ video {
   flex-direction: column
 }
 
+.flex-1 {
+  flex: 1;
+}
+
 .flex-wrap {
   flex-wrap: wrap
 }
@@ -670,6 +678,10 @@ video {
 
 .gap-8 {
   gap: 2rem
+}
+
+.gap-\[4rem\] {
+  gap: 4rem
 }
 
 .gap-\[27px\] {
@@ -1001,6 +1013,12 @@ body {
     padding-right: 1rem
   }
 
+  .md\:px-20 {
+    padding-left: 5rem;
+    padding-right: 5rem
+  }
+
+
   .md\:pr-16 {
     padding-right: 4rem
   }
@@ -1008,6 +1026,12 @@ body {
   .md\:pt-8 {
     padding-top: 2rem
   }
+
+  .md\:justify-between {
+    justify-content: space-between;
+  }
+
+
 }
 
 @media (min-width:1280px) {
@@ -1043,4 +1067,13 @@ body,
   width: 100vw !important;
 
   overflow-x: hidden;
+}
+
+.size-auto {
+  width: 296px;
+  height: 296px;
+}
+
+.object-contain {
+  object-fit: contain;
 }
