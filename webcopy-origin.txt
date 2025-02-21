@@ -1,0 +1,148 @@
+Uri: https://theoriginalduck.xyz/
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\index.htm
+Content Type: text/html
+
+Uri: https://theoriginalduck.xyz/cover.png
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\cover.png
+Content Type: image/png
+
+Uri: https://theoriginalduck.xyz/favicon.png
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\favicon.png
+Content Type: image/png
+
+Uri: https://theoriginalduck.xyz/feet.svg
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\feet.svg
+Content Type: image/svg+xml
+
+Uri: https://theoriginalduck.xyz/gm.gif
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\gm.gif
+Content Type: image/gif
+
+Uri: https://theoriginalduck.xyz/logo-2.svg
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://theoriginalduck.xyz/logo.svg
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://theoriginalduck.xyz/NFT_1.png
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\NFT_1.png
+Content Type: image/png
+
+Uri: https://theoriginalduck.xyz/NFT_2.png
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\NFT_2.png
+Content Type: image/png
+
+Uri: https://theoriginalduck.xyz/NFT_3.png
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\NFT_3.png
+Content Type: image/png
+
+Uri: https://theoriginalduck.xyz/NFT_4.png
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\NFT_4.png
+Content Type: image/png
+
+Uri: https://theoriginalduck.xyz/NFT_5.png
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\NFT_5.png
+Content Type: image/png
+
+Uri: https://theoriginalduck.xyz/notch.svg
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\notch.svg
+Content Type: image/svg+xml
+
+Uri: https://theoriginalduck.xyz/sign.png
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\sign.png
+Content Type: image/png
+
+Uri: https://theoriginalduck.xyz/tg.svg
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\tg.svg
+Content Type: image/svg+xml
+
+Uri: https://theoriginalduck.xyz/wave.gif
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\wave.gif
+Content Type: image/gif
+
+Uri: https://theoriginalduck.xyz/x.svg
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\x.svg
+Content Type: image/svg+xml
+
+Uri: https://theoriginalduck.xyz/_next/static/7ycEkDm61AzKtopmXP2dv/_buildManifest.js
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\7ycEkDm61AzKtopmXP2dv\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://theoriginalduck.xyz/_next/static/7ycEkDm61AzKtopmXP2dv/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\7ycEkDm61AzKtopmXP2dv\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://theoriginalduck.xyz/_next/static/chunks/295-01af636f278dc440.js
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\chunks\295-01af636f278dc440.js
+Content Type: application/javascript
+
+Uri: https://theoriginalduck.xyz/_next/static/chunks/framework-4fcd38b8d88b89e2.js
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\chunks\framework-4fcd38b8d88b89e2.js
+Content Type: application/javascript
+
+Uri: https://theoriginalduck.xyz/_next/static/chunks/main-842c943bbed6ece7.js
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\chunks\main-842c943bbed6ece7.js
+Content Type: application/javascript
+
+Uri: https://theoriginalduck.xyz/_next/static/chunks/pages/index-70e04ef80f719957.js
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\chunks\pages\index-70e04ef80f719957.js
+Content Type: application/javascript
+
+Uri: https://theoriginalduck.xyz/_next/static/chunks/pages/_app-210a98f1c0486876.js
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\chunks\pages\_app-210a98f1c0486876.js
+Content Type: application/javascript
+
+Uri: https://theoriginalduck.xyz/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://theoriginalduck.xyz/_next/static/chunks/webpack-8fa1640cc84ba8fe.js
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\chunks\webpack-8fa1640cc84ba8fe.js
+Content Type: application/javascript
+
+Uri: https://theoriginalduck.xyz/_next/static/css/85b3cf08c0292e64.css
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\css\85b3cf08c0292e64.css
+Content Type: text/css
+
+Uri: https://theoriginalduck.xyz/_next/static/css/a5fac4e1a47ecd94.css
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\css\a5fac4e1a47ecd94.css
+Content Type: text/css
+
+Uri: https://theoriginalduck.xyz/_next/static/media/1795935a853816a7-s.p.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\media\1795935a853816a7-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://theoriginalduck.xyz/_next/static/media/1ae5bbd7d74321e5-s.p.ttf
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\media\1ae5bbd7d74321e5-s.p.ttf
+Content Type: font/ttf
+
+Uri: https://theoriginalduck.xyz/_next/static/media/54968d113f012c33-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\media\54968d113f012c33-s.woff2
+Content Type: font/woff2
+
+Uri: https://theoriginalduck.xyz/_next/static/media/64ed473ebdc884ed-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\media\64ed473ebdc884ed-s.woff2
+Content Type: font/woff2
+
+Uri: https://theoriginalduck.xyz/_next/static/media/7236849e99ccb2aa-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\media\7236849e99ccb2aa-s.woff2
+Content Type: font/woff2
+
+Uri: https://theoriginalduck.xyz/_next/static/media/75e4bca58b4a29ab-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\media\75e4bca58b4a29ab-s.woff2
+Content Type: font/woff2
+
+Uri: https://theoriginalduck.xyz/_next/static/media/944ae4f730029194-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\media\944ae4f730029194-s.woff2
+Content Type: font/woff2
+
+Uri: https://theoriginalduck.xyz/_next/static/media/b1ca8bea150742c1-s.p.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\media\b1ca8bea150742c1-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://theoriginalduck.xyz/_next/static/media/ee5140204c30189a-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduck.xyz\_next\static\media\ee5140204c30189a-s.woff2
+Content Type: font/woff2
+
