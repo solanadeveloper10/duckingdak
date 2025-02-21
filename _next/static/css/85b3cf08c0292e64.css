@@ -349,6 +349,29 @@ video {
   --tw-backdrop-sepia:
 }
 
+.size-auto {
+  width: 296px;
+  height: 296px;
+}
+
+.object-contain {
+  object-fit: contain;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-cols-1 {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.grid-cols-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .container {
   width: 100%
 }
@@ -1080,6 +1103,10 @@ body {
   ._1365px\:ml-auto {
     margin-left: auto;
   }
+
+  ._1365px\:grid-cols-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 }
 
 @media (min-width:1536px) {
@@ -1097,18 +1124,4 @@ body,
   width: 100vw !important;
 
   overflow-x: hidden;
-}
-
-.size-auto {
-  width: 296px;
-  height: 296px;
-}
-
-.object-contain {
-  object-fit: contain;
-}
-
-.grid-cols-1 {
-  display: grid;
-  grid-template-columns: 1fr;
 }

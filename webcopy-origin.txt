@@ -62,8 +62,8 @@ Uri: https://theoriginalduq.xyz/wave.gif
 File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\wave.gif
 Content Type: image/gif
 
-Uri: https://theoriginalduq.xyz/x.svg
-File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\x.svg
+Uri: https://theoriginalduq.xyz/dextools.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\dextools.png
 Content Type: image/svg+xml
 
 Uri: https://theoriginalduq.xyz/_next/static/7ycEkDm61AzKtopmXP2dv/_buildManifest.js
