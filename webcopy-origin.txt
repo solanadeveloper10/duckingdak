@@ -1,148 +1,148 @@
-Uri: https://theoriginaldak.xyz/
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\index.htm
+Uri: https://theoriginalduq.xyz/
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\index.htm
 Content Type: text/html
 
-Uri: https://theoriginaldak.xyz/cover.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\cover.png
+Uri: https://theoriginalduq.xyz/cover.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\cover.png
 Content Type: image/png
 
-Uri: https://theoriginaldak.xyz/favicon.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\favicon.png
+Uri: https://theoriginalduq.xyz/favicon.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\favicon.png
 Content Type: image/png
 
-Uri: https://theoriginaldak.xyz/feet.svg
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\feet.svg
+Uri: https://theoriginalduq.xyz/feet.svg
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\feet.svg
 Content Type: image/svg+xml
 
-Uri: https://theoriginaldak.xyz/gm.gif
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\gm.gif
+Uri: https://theoriginalduq.xyz/gm.gif
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\gm.gif
 Content Type: image/gif
 
-Uri: https://theoriginaldak.xyz/logo-2.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\logo-2.png
+Uri: https://theoriginalduq.xyz/logo-2.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\logo-2.png
 Content Type: image/svg+xml
 
-Uri: https://theoriginaldak.xyz/logo.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\logo.png
+Uri: https://theoriginalduq.xyz/logo.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\logo.png
 Content Type: image/svg+xml
 
-Uri: https://theoriginaldak.xyz/NFT_1.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\NFT_1.png
+Uri: https://theoriginalduq.xyz/NFT_1.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\NFT_1.png
 Content Type: image/png
 
-Uri: https://theoriginaldak.xyz/NFT_2.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\NFT_2.png
+Uri: https://theoriginalduq.xyz/NFT_2.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\NFT_2.png
 Content Type: image/png
 
-Uri: https://theoriginaldak.xyz/NFT_3.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\NFT_3.png
+Uri: https://theoriginalduq.xyz/NFT_3.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\NFT_3.png
 Content Type: image/png
 
-Uri: https://theoriginaldak.xyz/NFT_4.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\NFT_4.png
+Uri: https://theoriginalduq.xyz/NFT_4.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\NFT_4.png
 Content Type: image/png
 
-Uri: https://theoriginaldak.xyz/NFT_5.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\NFT_5.png
+Uri: https://theoriginalduq.xyz/NFT_5.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\NFT_5.png
 Content Type: image/png
 
-Uri: https://theoriginaldak.xyz/notch.svg
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\notch.svg
+Uri: https://theoriginalduq.xyz/notch.svg
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\notch.svg
 Content Type: image/svg+xml
 
-Uri: https://theoriginaldak.xyz/sign.png
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\sign.png
+Uri: https://theoriginalduq.xyz/sign.png
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\sign.png
 Content Type: image/png
 
-Uri: https://theoriginaldak.xyz/tg.svg
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\tg.svg
+Uri: https://theoriginalduq.xyz/tg.svg
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\tg.svg
 Content Type: image/svg+xml
 
-Uri: https://theoriginaldak.xyz/wave.gif
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\wave.gif
+Uri: https://theoriginalduq.xyz/wave.gif
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\wave.gif
 Content Type: image/gif
 
-Uri: https://theoriginaldak.xyz/x.svg
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\x.svg
+Uri: https://theoriginalduq.xyz/x.svg
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\x.svg
 Content Type: image/svg+xml
 
-Uri: https://theoriginaldak.xyz/_next/static/7ycEkDm61AzKtopmXP2dv/_buildManifest.js
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\7ycEkDm61AzKtopmXP2dv\_buildManifest.js
+Uri: https://theoriginalduq.xyz/_next/static/7ycEkDm61AzKtopmXP2dv/_buildManifest.js
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\7ycEkDm61AzKtopmXP2dv\_buildManifest.js
 Content Type: application/javascript
 
-Uri: https://theoriginaldak.xyz/_next/static/7ycEkDm61AzKtopmXP2dv/_ssgManifest.js
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\7ycEkDm61AzKtopmXP2dv\_ssgManifest.js
+Uri: https://theoriginalduq.xyz/_next/static/7ycEkDm61AzKtopmXP2dv/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\7ycEkDm61AzKtopmXP2dv\_ssgManifest.js
 Content Type: application/javascript
 
-Uri: https://theoriginaldak.xyz/_next/static/chunks/295-01af636f278dc440.js
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\chunks\295-01af636f278dc440.js
+Uri: https://theoriginalduq.xyz/_next/static/chunks/295-01af636f278dc440.js
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\chunks\295-01af636f278dc440.js
 Content Type: application/javascript
 
-Uri: https://theoriginaldak.xyz/_next/static/chunks/framework-4fcd38b8d88b89e2.js
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\chunks\framework-4fcd38b8d88b89e2.js
+Uri: https://theoriginalduq.xyz/_next/static/chunks/framework-4fcd38b8d88b89e2.js
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\chunks\framework-4fcd38b8d88b89e2.js
 Content Type: application/javascript
 
-Uri: https://theoriginaldak.xyz/_next/static/chunks/main-842c943bbed6ece7.js
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\chunks\main-842c943bbed6ece7.js
+Uri: https://theoriginalduq.xyz/_next/static/chunks/main-842c943bbed6ece7.js
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\chunks\main-842c943bbed6ece7.js
 Content Type: application/javascript
 
-Uri: https://theoriginaldak.xyz/_next/static/chunks/pages/index-70e04ef80f719957.js
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\chunks\pages\index-70e04ef80f719957.js
+Uri: https://theoriginalduq.xyz/_next/static/chunks/pages/index-70e04ef80f719957.js
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\chunks\pages\index-70e04ef80f719957.js
 Content Type: application/javascript
 
-Uri: https://theoriginaldak.xyz/_next/static/chunks/pages/_app-210a98f1c0486876.js
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\chunks\pages\_app-210a98f1c0486876.js
+Uri: https://theoriginalduq.xyz/_next/static/chunks/pages/_app-210a98f1c0486876.js
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\chunks\pages\_app-210a98f1c0486876.js
 Content Type: application/javascript
 
-Uri: https://theoriginaldak.xyz/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Uri: https://theoriginalduq.xyz/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
 Content Type: application/javascript
 
-Uri: https://theoriginaldak.xyz/_next/static/chunks/webpack-8fa1640cc84ba8fe.js
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\chunks\webpack-8fa1640cc84ba8fe.js
+Uri: https://theoriginalduq.xyz/_next/static/chunks/webpack-8fa1640cc84ba8fe.js
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\chunks\webpack-8fa1640cc84ba8fe.js
 Content Type: application/javascript
 
-Uri: https://theoriginaldak.xyz/_next/static/css/85b3cf08c0292e64.css
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\css\85b3cf08c0292e64.css
+Uri: https://theoriginalduq.xyz/_next/static/css/85b3cf08c0292e64.css
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\css\85b3cf08c0292e64.css
 Content Type: text/css
 
-Uri: https://theoriginaldak.xyz/_next/static/css/a5fac4e1a47ecd94.css
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\css\a5fac4e1a47ecd94.css
+Uri: https://theoriginalduq.xyz/_next/static/css/a5fac4e1a47ecd94.css
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\css\a5fac4e1a47ecd94.css
 Content Type: text/css
 
-Uri: https://theoriginaldak.xyz/_next/static/media/1795935a853816a7-s.p.woff2
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\media\1795935a853816a7-s.p.woff2
+Uri: https://theoriginalduq.xyz/_next/static/media/1795935a853816a7-s.p.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\media\1795935a853816a7-s.p.woff2
 Content Type: font/woff2
 
-Uri: https://theoriginaldak.xyz/_next/static/media/1ae5bbd7d74321e5-s.p.ttf
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\media\1ae5bbd7d74321e5-s.p.ttf
+Uri: https://theoriginalduq.xyz/_next/static/media/1ae5bbd7d74321e5-s.p.ttf
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\media\1ae5bbd7d74321e5-s.p.ttf
 Content Type: font/ttf
 
-Uri: https://theoriginaldak.xyz/_next/static/media/54968d113f012c33-s.woff2
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\media\54968d113f012c33-s.woff2
+Uri: https://theoriginalduq.xyz/_next/static/media/54968d113f012c33-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\media\54968d113f012c33-s.woff2
 Content Type: font/woff2
 
-Uri: https://theoriginaldak.xyz/_next/static/media/64ed473ebdc884ed-s.woff2
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\media\64ed473ebdc884ed-s.woff2
+Uri: https://theoriginalduq.xyz/_next/static/media/64ed473ebdc884ed-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\media\64ed473ebdc884ed-s.woff2
 Content Type: font/woff2
 
-Uri: https://theoriginaldak.xyz/_next/static/media/7236849e99ccb2aa-s.woff2
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\media\7236849e99ccb2aa-s.woff2
+Uri: https://theoriginalduq.xyz/_next/static/media/7236849e99ccb2aa-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\media\7236849e99ccb2aa-s.woff2
 Content Type: font/woff2
 
-Uri: https://theoriginaldak.xyz/_next/static/media/75e4bca58b4a29ab-s.woff2
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\media\75e4bca58b4a29ab-s.woff2
+Uri: https://theoriginalduq.xyz/_next/static/media/75e4bca58b4a29ab-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\media\75e4bca58b4a29ab-s.woff2
 Content Type: font/woff2
 
-Uri: https://theoriginaldak.xyz/_next/static/media/944ae4f730029194-s.woff2
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\media\944ae4f730029194-s.woff2
+Uri: https://theoriginalduq.xyz/_next/static/media/944ae4f730029194-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\media\944ae4f730029194-s.woff2
 Content Type: font/woff2
 
-Uri: https://theoriginaldak.xyz/_next/static/media/b1ca8bea150742c1-s.p.woff2
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\media\b1ca8bea150742c1-s.p.woff2
+Uri: https://theoriginalduq.xyz/_next/static/media/b1ca8bea150742c1-s.p.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\media\b1ca8bea150742c1-s.p.woff2
 Content Type: font/woff2
 
-Uri: https://theoriginaldak.xyz/_next/static/media/ee5140204c30189a-s.woff2
-File Name: C:\Downloaded Web Sites\theoriginaldak.xyz\_next\static\media\ee5140204c30189a-s.woff2
+Uri: https://theoriginalduq.xyz/_next/static/media/ee5140204c30189a-s.woff2
+File Name: C:\Downloaded Web Sites\theoriginalduq.xyz\_next\static\media\ee5140204c30189a-s.woff2
 Content Type: font/woff2
 
